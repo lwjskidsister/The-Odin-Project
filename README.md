@@ -22,22 +22,6 @@ A classic **Caesar Cipher** project where I implemented a cipher that encrypts a
 - Encryption algorithms
 - Ruby programming
 
-### 2. [Project 2 Name](link-to-project-2)
-
-**Description:**  
-Brief description of project 2. Mention the technology used, and what you learned from it.
-
-**Skills Learned:**  
-- List of skills
-
-### 3. [Project 3 Name](link-to-project-3)
-
-**Description:**  
-Brief description of project 3. Mention the technology used, and what you learned from it.
-
-**Skills Learned:**  
-- List of skills
-
 ---
 
 ## Additional Projects
@@ -48,8 +32,6 @@ I plan to continue adding more projects to this repository as I progress through
 
 ## Technologies Used
 
-- **HTML/CSS**: Building responsive and well-designed user interfaces.
-- **JavaScript**: Creating dynamic websites with JavaScript and working with APIs.
 - **Ruby**: Implementing algorithms and building simple applications.
 - **Ruby on Rails**: Developing full-stack web applications.
 - **Git/GitHub**: Version control and collaboration with Git and GitHub.
@@ -60,6 +42,6 @@ I plan to continue adding more projects to this repository as I progress through
 
 Feel free to reach out if you have any questions or feedback. I'm always open to suggestions and collaboration!
 
-- **Email**: [youremail@example.com](mailto:youremail@example.com)
+- **Email**: [bwiza1ak@gmail.com](mailto:bwiza1ak@gmail.com)
 - **GitHub**: [https://github.com/lwjskidsister](https://github.com/lwjskidsister)
-- **LinkedIn**: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **LinkedIn**: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/bwiza-agnes-kamirindi)
